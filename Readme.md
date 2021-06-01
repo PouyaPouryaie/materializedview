@@ -1,6 +1,6 @@
 # materializedView
 
-1) in application.properties for first run add `app.generator.enabled=true`
+1) in order to generate data for test, go to the application.properties and add `app.generator.enabled=true`
 after that `app.generator.enabled=false`
 2) create tables and MATERIALIZED view
 3) populated materialized view
